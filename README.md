@@ -1,4 +1,5 @@
-# SortDeck (cложность по времени: O(n), cложность по памяти: O(n))
+# SortDeck
+cложность по времени: O(n), cложность по памяти: O(n)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/m14kj0px6u5w1f08?svg=true)](https://ci.appveyor.com/project/studenikin/sortdeck)
 
